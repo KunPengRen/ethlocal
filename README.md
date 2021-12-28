@@ -3,8 +3,8 @@
 ETHLocal is aimed to build a local private Ethereum Network by docker container.
 
 ## Network Architecture
-- Bootnode
-- JSON-RPC endpoint
+- Bootnode: listens on porn 30303, is used for peer discovery purpose.
+- JSON-RPC endpoint: 
 - Minernode
 
 
